@@ -17,7 +17,7 @@ Prerequisites:
 
 2. Download and import  "contracts" folder, "deploy" folder and hardhat.config file in sample-contract folder.
 
-3. Create a file name '.secret' in sample-contract folder and paste your Metamask wallet private key. Make sure to use your unused burner wallet, not main wallet. Save and close.
+3. Create a new file with a name '.secret' in a sample-contract folder and paste your Metamask wallet private key. Make sure to use your unused burner wallet key, not the main wallet. Save and close.
 
 4. Compile the contract with the following command:
 		npx hardhat compile
