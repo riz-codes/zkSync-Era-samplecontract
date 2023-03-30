@@ -41,5 +41,7 @@ Prerequisites:
 	This will verify your contract and result shows <i>"Nothing to compile. Your verification ID is: 0000. Contract successfully verified on zkSync block explorer!"</i>
 
 
+	Note: The above steps are taken from official Documentation of zkSync, the link to the docs is https://era.zksync.io/docs/dev/
+
 
 
